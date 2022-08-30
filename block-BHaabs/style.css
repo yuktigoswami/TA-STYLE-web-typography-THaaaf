@@ -1,0 +1,54 @@
+body {
+    font-size: 20px;
+    background-color: rgb(41, 41, 34);
+    padding: 32px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif; 
+    line-height: 1.5;
+}
+.container {
+    margin: 0 auto;
+    width: 1330px;
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-shadow: 2px 4px rgba(0, 0, 0.3);
+}
+.h2 {
+    color:  rgb(212, 212, 194) ;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-shadow: 2px 4px rgba(0, 0, 0.3);
+}
+.p1 {
+    color: crimson;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.date {
+    display: flex;
+    width: 1330px;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.time {
+    color: rgb(185, 185, 166);
+    font-weight: bold;
+    text-transform: capitalize;
+    float: right;
+    font-weight: 10px;
+    margin-right: 30px;
+}
+.text {
+    color:  rgb(141, 141, 117);
+    font-size: 20px;
+    font-weight: 400;
+}
+
